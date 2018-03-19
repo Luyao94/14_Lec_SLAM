@@ -1,0 +1,4 @@
+[ 25%] Built target slamBase
+[ 50%] Built target detectFeatures
+[ 75%] Built target generate_pointcloud1
+[100%] Built target main
