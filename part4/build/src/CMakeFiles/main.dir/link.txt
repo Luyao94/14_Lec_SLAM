@@ -1,0 +1,1 @@
+g++     -Wno-deprecated -g     CMakeFiles/main.dir/main.cpp.o  -o ../../bin/main  -L/home/maoli/RGBD_tutorial/code/part4/lib -rdynamic 

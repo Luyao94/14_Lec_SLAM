@@ -1,0 +1,5 @@
+/home/maoli/RGBD_tutorial/code/part4/build/src/CMakeFiles/detectFeatures.dir
+/home/maoli/RGBD_tutorial/code/part4/build/src/CMakeFiles/generate_pointcloud1.dir
+/home/maoli/RGBD_tutorial/code/part4/build/src/CMakeFiles/jointPointCloud.dir
+/home/maoli/RGBD_tutorial/code/part4/build/src/CMakeFiles/main.dir
+/home/maoli/RGBD_tutorial/code/part4/build/src/CMakeFiles/slamBase.dir
