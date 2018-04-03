@@ -1,0 +1,32 @@
+# 這是一個參數文件
+# part4 裏面定義的參數
+
+detector=ORB
+descriptor=ORB
+good_match_threshold=10
+
+# camera
+camera.cx=325.5;
+camera.cy=253.5;
+camera.fx=518.p;
+camera.fy=519.0;
+camera.scale=1000.0
+
+# part5
+# 數據相關
+# 起始於終止索引
+start_index=1
+end_index=782
+# 數據所在目錄
+rgb_dir=../data/rgb_png/
+rgb_extension=.png
+depth_dir=../data/depth_png/
+depth_extension=.png
+# 點雲分辨率
+voxel_grid=0.01
+# 是否實時可視化
+visualize_pointcloud=yes
+# 最小匹配數量
+min_inliers=5
+# 最大運動誤差
+max_norm=0.3
